@@ -24,7 +24,7 @@ It's very basic:
 - functions are in the word (see point 8 of the next section)
 - they are used by calling special function that takes `string!` (e.g `foo pal"polar#2.2<3.3"`). I want it to be called as in the [proposal] (e.g `foo polar#2.2<3.3`)
 
-More info/usage in the [tests](/tests/ct_functions.red)
+More info/usage in the [tests](/tests/ct_functions.red).
 
 ### Limits, bugs, notes or new features that I want to implement:
 When I have tried to implement user defined types many things did not worked or I do not like their form. I learned a lot so here are my thoughts:
